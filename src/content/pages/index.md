@@ -3,11 +3,18 @@ template: index-page
 slug: /
 title: Matt Foulk
 tagline: Learn about the World to Change the World
-featuredImage: /assets/img_3796.jpg
+featuredImage: /assets/6c22516b-3f33-4d6a-89f0-f0ec77aba27b.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Welcome to my little slice of the digital world!
+F﻿ollow along to learn about: 
 
-I'm an avid researcher and learner, always on the hunt for upgraded levels of understanding. Whether it's the top exports from today's Tradle, the latest tech trends, the intricacies of animal behavior, or the strategies behind my favorite card games, I love diving, deep into diverse topics.
+* T﻿radle Country Facts of the Day
+* S﻿ome Random Bug I Saw
+* M﻿y Predictions for Fantasy Football
+* S﻿tarting your own Business
+* What the Heck a Carburetor is
+* A﻿nd everything between... 
+
+R﻿each out with any comments, concerns, questions, and suggestions.
