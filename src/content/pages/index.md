@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Matt Foulk
-tagline: Learn about the World to Change the World
+title: Learn about the World to Change the World
+tagline: Temp Tagline
 featuredImage: /assets/me_sitting_on_rock.jpg
 cta:
   ctaText: Know more
