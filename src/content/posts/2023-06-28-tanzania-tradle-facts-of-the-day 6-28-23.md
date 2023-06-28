@@ -2,12 +2,13 @@
 template: blog-post
 title: "Tanzania: Tradle Facts of the Day 6/28/23"
 slug: /tradle/Tanzania_6-28-23
-date: 2023-06-29 10:00
+date: 2023-06-28 19:28
 description: Discover the wonders of Tanzania! From the towering Mount
   Kilimanjaro to the vibrant traditions of the Maasai tribe, we present ten
   captivating facts about this diverse country. Explore its rich wildlife,
   linguistic tapestry, historical timeline, and more. Join us on this
   enlightening journey and uncover the beauty and complexity of Tanzania.
+featuredImage: /assets/kili.jpg
 ---
 Welcome to today's blog entry, where we explore the fascinating wonders of Tanzania. From the majestic Mount Kilimanjaro to the rich cultural traditions of the Maasai tribe, Tanzania offers a tapestry of unique experiences. In this article, we present ten captivating facts that highlight the beauty and complexity of this diverse country. Join us on this enlightening journey and discover the wonders that await in Tanzania!
 
