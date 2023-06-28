@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Matt Foulk",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "description": "",
+    "siteUrl": "https://www.mattfoulk.com",
+    "image": "/assets/favicon-mf_brand_v2.png",
+    "iconimage": "/assets/favicon-mf_brand_v2.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
